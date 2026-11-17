@@ -359,9 +359,6 @@ The modular design makes it possible to introduce these features without redesig
 
 KisanConnect AI is technically achievable, economically practical for an initial prototype, and operationally adaptable. Its use of open-source technologies, modular development, and scalable architecture provides a practical foundation for building a digital agricultural marketplace.<\p>
 
-## Impact and Benefits
-<p><\p>
-
 ## Research and References
 <p>
 
